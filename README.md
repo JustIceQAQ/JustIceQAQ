@@ -1,4 +1,7 @@
-### Hi there 👋
+# JustIceQAQ 😄
+
+安安你好
+
 
 [![JustIceQAQ's github stats](https://github-readme-stats.vercel.app/api?username=JustIceQAQ&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=JustIceQAQ" />
