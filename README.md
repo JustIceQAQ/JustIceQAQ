@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![JustIceQAQ's github stats](https://github-readme-stats.vercel.app/api?username=JustIceQAQ&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JustIceQAQ/JustIceQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
