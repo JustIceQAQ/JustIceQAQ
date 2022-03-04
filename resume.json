@@ -10,5 +10,18 @@
     "github": "https://github.com/JustIceQAQ",
     "workExpYear": "4",
     "positionTitle": "副工程師"
-  }
+  },
+  "skillList": [
+    {
+      "skill_name": "Python",
+      "skill_desc": "",
+      "skill_level": 100
+    },
+    {
+      "skill_name": "Django",
+      "skill_desc": "Python 網站框架",
+      "skill_level": 100
+    },
+    
+  ],
 }
