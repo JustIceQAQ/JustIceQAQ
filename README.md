@@ -2,6 +2,8 @@
 
 安安你好
 
+- 💬 https://justiceqaq.github.io/
+
 
 [![JustIceQAQ's github stats](https://github-readme-stats.vercel.app/api?username=JustIceQAQ&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
