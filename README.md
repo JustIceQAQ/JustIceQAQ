@@ -3,15 +3,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=justiceqaq&label=Profile%20views&color=0e75b6&style=flat" alt="justiceqaq" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justiceqaq" alt="justiceqaq" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=justiceqaq&theme=onedark&row=2&column=3" alt="justiceqaq" />
+</a> </p>
 
 - 🌱 I’m currently learning **Python Go**
 
 - 📝 I regularly write articles on [https://justiceqaq.github.io/](https://justiceqaq.github.io/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
