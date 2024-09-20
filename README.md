@@ -23,10 +23,10 @@ No activity tracked
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,go,js&theme=light">
+<img src="https://skillicons.dev/icons?i=python&theme=light">
 </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=light">
+<img src="https://skillicons.dev/icons?i=django,fastapi&theme=light">
 </div>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,redis&theme=light">
