@@ -11,19 +11,7 @@
 
 - 📝 I regularly write articles on [https://justiceqaq.github.io/](https://justiceqaq.github.io/)
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 14 October 2026 - To: 21 October 2026
-
-Python                                   29 mins               🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.34 %
-TOML                                     24 mins               🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.76 %
-JavaScript                               24 mins               🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.49 %
-YAML                                     21 mins               🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.17 %
-HTML                                     17 mins               🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.70 %
-```
-
-<!--END_SECTION:waka-->
+<img src="https://wakatime.com/share/@8d71f19c-50e9-45fd-8dc7-ada33a00fd1a/b1393be1-0ef5-487f-9bb8-bf44a920a859.svg" />
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
